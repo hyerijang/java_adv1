@@ -11,7 +11,7 @@ public class DeamonThreadMain {
         System.out.println(Thread.currentThread().getName() + ".main() end");
     }
 
-    static class DemonThread extends Thread {
+    static class DemonThread extends Thread { // inner 클래스는 메모리 누스 위험 있으므로 inner static으로 선언
         @Override
         public void run() {
             System.out.println(Thread.currentThread().getName() + ".run() start");
