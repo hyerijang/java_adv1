@@ -1,5 +1,7 @@
 package thread.sync.test;
 
+import static util.MyLogger.log;
+
 public class SyncTest1BadMain {
 
     public static void main(String[] args) throws InterruptedException {
@@ -8,8 +10,9 @@ public class SyncTest1BadMain {
         Runnable task = new Runnable() {
             @Override
             public void run() {
-                for (int i = 0; i < 10000; i++) {
+                for (int i = 0; i < 10_000; i++) {
                     counter.increment();
+                    log("count = " + counter.getCount());
                 }
             }
         };
@@ -29,12 +32,14 @@ public class SyncTest1BadMain {
 
     static class Counter {
         private int count = 0;
-        
+
+        // synchronized 키워드
         public synchronized void increment() {
                 count = count + 1;
         }
 
-        public int getCount() {
+        // NOTE: getCount에도 synchronized 키워드
+        public synchronized int getCount() {
             return count;
         }
     }
