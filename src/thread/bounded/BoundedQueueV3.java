@@ -6,8 +6,7 @@ import java.util.ArrayDeque;
 import java.util.Queue;
 
 // synchronized 로 구현
-// NOTE : V2 는 비정상적으로 작동하는 예제
-//  while 사용해서 대기 -> 비정상 작동
+// TODO : Object.wait, notify 사용하여 정상적으로 작동하도록 수정
 public class BoundedQueueV3 implements BoundedQueue {
 
     private final Queue<String> queue = new ArrayDeque<>();
