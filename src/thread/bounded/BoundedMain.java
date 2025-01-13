@@ -12,7 +12,8 @@ public class BoundedMain {
         // 1. BoundedQueue 선택
 //        BoundedQueue queue = new BoundedQueueV6_1(2); // 무한정 대기
 //        BoundedQueue queue = new BoundedQueueV6_2(2); // 즉시 반환
-        BoundedQueue queue = new BoundedQueueV6_3(2); // 일정시간 대기
+//        BoundedQueue queue = new BoundedQueueV6_3(2); // 일정시간 대기
+        BoundedQueue queue = new BoundedQueueV6_4(2); // 일정시간 대기
 
 
         // 2. 생산자, 소비자 실행 순서 선택, 반드시 하나만 선택!
