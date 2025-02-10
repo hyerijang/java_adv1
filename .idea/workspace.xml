@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b280f41d-a89a-45a0-87c2-1ed77427f493" name="Changes" comment="Future7- 예외">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;hyerijang&quot;
+  }
+}</component>
+  <component name="GitRewordedCommitMessages">
+    <option name="commitMessagesMapping">
+      <RewordedCommitMessageMapping>
+        <option name="originalMessage" value="생산자 소비자 문제 V6_2 - BlockingQueue 한정대기" />
+        <option name="rewordedMessage" value="생산자 소비자 문제 V6_3 - BlockingQueue 한정대기" />
+      </RewordedCommitMessageMapping>
+    </option>
+    <option name="currentCommit" value="1" />
+    <option name="onto" value="181090ec180b98e9c0391c43da621cdea47fa223" />
+  </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:hyerijang/java_adv1.git&quot;,
+    &quot;accountId&quot;: &quot;5409bcbe-c8b1-4ec7-b41b-e93b3c9fd4b4&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2q4SXqCEezkLNLDQDQswuuUPzyQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BadThreadMain.executor": "Run",
+    "Application.BankMain.executor": "Debug",
+    "Application.BoundedMain.executor": "Debug",
+    "Application.CallableMain.executor": "Run",
+    "Application.CallableMainV2.executor": "Debug",
+    "Application.CasMainV1.executor": "Run",
+    "Application.CasMainV2.executor": "Debug",
+    "Application.CasMainV3.executor": "Debug",
+    "Application.CheckedExceptionMain.executor": "Debug",
+    "Application.CheckedExxceptionMain.executor": "Debug",
+    "Application.DeamonThreadMain.executor": "Debug",
+    "Application.ExecutorBasicMain.executor": "Run",
+    "Application.FutureCancleMain.executor": "Debug",
+    "Application.FutureExceptionMain.executor": "Debug",
+    "Application.HelloRunnableMain.executor": "Run",
+    "Application.HelloThread.executor": "Run",
+    "Application.HelloThreadMain.executor": "Debug",
+    "Application.IncrementPerformanceMain.executor": "Run",
+    "Application.IncrementThreadMain.executor": "Debug",
+    "Application.InnerRunnableMainV1.executor": "Run",
+    "Application.InnerRunnableMainV2.executor": "Debug",
+    "Application.JoinMainV0.executor": "Debug",
+    "Application.JoinMainV1.executor": "Debug",
+    "Application.JoinMainV2.executor": "Run",
+    "Application.JoinMainV3.executor": "Debug",
+    "Application.JoinMainV4.executor": "Run",
+    "Application.ListMain.executor": "Run",
+    "Application.LockSupportMainV1.executor": "Debug",
+    "Application.Main.executor": "Debug",
+    "Application.ManyThreadMainV1.executor": "Debug",
+    "Application.MyLoggerMain.executor": "Debug",
+    "Application.MyPrinterV1.executor": "Debug",
+    "Application.MyPrinterV2.executor": "Debug",
+    "Application.MyPrinterV3.executor": "Run",
+    "Application.MyPrinterV4.executor": "Run",
+    "Application.RunnableMain.executor": "Run",
+    "Application.SetMain.executor": "Run",
+    "Application.SimpleListMainV0.executor": "Debug",
+    "Application.SimpleListMainV2.executor": "Debug",
+    "Application.SimpleListMainV3.executor": "Run",
+    "Application.StartTest1Main.executor": "Run",
+    "Application.StartTest2Main.executor": "Debug",
+    "Application.StartTest3Main.executor": "Run",
+    "Application.StartTest4Main.executor": "Debug",
+    "Application.SumTaskMainV1.executor": "Run",
+    "Application.SumTaskMainV2.executor": "Debug",
+    "Application.SyncTest1BadMain.executor": "Debug",
+    "Application.SyncTest2Main.executor": "Debug",
+    "Application.SyncTest3Main.executor": "Profiler#1",
+    "Application.SynchronizedListMain.executor": "Run",
+    "Application.ThreadInfoMain.executor": "Debug",
+    "Application.ThreadStopMainV1.executor": "Debug",
+    "Application.ThreadStopMainV2.executor": "Debug",
+    "Application.ThreadStopMainV3.executor": "Debug",
+    "Application.ThreadStopMainV4.executor": "Debug",
+    "Application.VolatileCountMain.executor": "Debug",
+    "Application.VolatileFlagMain.executor": "Debug",
+    "Application.YieldMain.executor": "Debug",
+    "Application.spinLockMain.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "git-widget-placeholder": "master",
+    "ignore.preview.features.used": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/hyeri/Documents/My Projects/demo.notifications.system",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.toDoOptions",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="thread.sync.test" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="thread.executor" />
+      <recent name="thread.collection.simple" />
+      <recent name="thread.collection.simple.list" />
+      <recent name="thread.cas.spinlock" />
+      <recent name="thread.cas" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.FutureExceptionMain">
+    <configuration name="CallableMainV2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.executor.CallableMainV2" />
+      <module name="java_adv1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="thread.executor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FutureCancleMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.executor.FutureCancleMain" />
+      <module name="java_adv1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="thread.executor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FutureExceptionMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.executor.FutureExceptionMain" />
+      <module name="java_adv1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="thread.executor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumTaskMainV1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.executor.SumTaskMainV1" />
+      <module name="java_adv1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="thread.executor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumTaskMainV2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.executor.SumTaskMainV2" />
+      <module name="java_adv1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="thread.executor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FutureExceptionMain" />
+        <item itemvalue="Application.FutureCancleMain" />
+        <item itemvalue="Application.SumTaskMainV1" />
+        <item itemvalue="Application.SumTaskMainV2" />
+        <item itemvalue="Application.CallableMainV2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.21565.193" />
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-IU-243.21565.193" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b280f41d-a89a-45a0-87c2-1ed77427f493" name="Changes" comment="" />
+      <created>1733920401759</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733920401759</updated>
+      <workItem from="1733920402997" duration="5638000" />
+      <workItem from="1733926728959" duration="2438000" />
+      <workItem from="1734000557702" duration="1419000" />
+      <workItem from="1734088641912" duration="94000" />
+      <workItem from="1734448798595" duration="5953000" />
+      <workItem from="1734508253003" duration="9372000" />
+      <workItem from="1734613647958" duration="4017000" />
+      <workItem from="1736238044240" duration="8007000" />
+      <workItem from="1736492654898" duration="1755000" />
+      <workItem from="1736495051035" duration="12063000" />
+      <workItem from="1736580703021" duration="3713000" />
+      <workItem from="1736756905553" duration="11093000" />
+      <workItem from="1736839415851" duration="4914000" />
+      <workItem from="1737443212216" duration="1962000" />
+      <workItem from="1737445739653" duration="13653000" />
+      <workItem from="1738823838398" duration="4845000" />
+    </task>
+    <task id="LOCAL-00054" summary="ReentrantLock - 활용&#10;&#10;finally 블록을 사용해서 unlock을 꼭 해줘야 함. 안하면 다른 스레드가 lock을 얻지 못하고 무한 대기 상태에 빠짐">
+      <option name="closed" value="true" />
+      <created>1736339980086</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1736339980087</updated>
+    </task>
+    <task id="LOCAL-00055" summary="ReentrantLock - 대기 중단">
+      <option name="closed" value="true" />
+      <created>1736498401745</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1736498401746</updated>
+    </task>
+    <task id="LOCAL-00056" summary="[섹션 9] 생산자 소비자 문제1 - 예제 코드">
+      <option name="closed" value="true" />
+      <created>1736500877817</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1736500877817</updated>
+    </task>
+    <task id="LOCAL-00057" summary="생산자 소비자 문제 2 - 예제 코드">
+      <option name="closed" value="true" />
+      <created>1736512033982</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1736512033982</updated>
+    </task>
+    <task id="LOCAL-00058" summary="생산자 소비자 문제 2 - 예제 코드">
+      <option name="closed" value="true" />
+      <created>1736512156319</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1736512156319</updated>
+    </task>
+    <task id="LOCAL-00059" summary="생산자 소비자 문제 3 (wait, notify) - 예제 코드">
+      <option name="closed" value="true" />
+      <created>1736513458245</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1736513458245</updated>
+    </task>
+    <task id="LOCAL-00060" summary="생산자 소비자 문제 3 (wait, notify) - 예제 코드">
+      <option name="closed" value="true" />
+      <created>1736513615835</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1736513615835</updated>
+    </task>
+    <task id="LOCAL-00061" summary="[섹션 10] 생산자 소비자 문제 V4 - lock을 사용한 예제">
+      <option name="closed" value="true" />
+      <created>1736601066086</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1736601066087</updated>
+    </task>
+    <task id="LOCAL-00062" summary="[섹션 10] 생산자 소비자 문제 V4 - lock을 사용한 예제">
+      <option name="closed" value="true" />
+      <created>1736601201366</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1736601201366</updated>
+    </task>
+    <task id="LOCAL-00063" summary="생산자 소비자 문제 V5 - 생산자, 소비자 대기공간 분리">
+      <option name="closed" value="true" />
+      <created>1736601442973</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1736601442973</updated>
+    </task>
+    <task id="LOCAL-00064" summary="생산자 소비자 문제 V5 - 생산자, 소비자 대기공간 분리">
+      <option name="closed" value="true" />
+      <created>1736601474716</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1736601474716</updated>
+    </task>
+    <task id="LOCAL-00065" summary="생산자 소비자 문제 V5 - 생산자, 소비자 대기공간 분리">
+      <option name="closed" value="true" />
+      <created>1736601513210</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1736601513210</updated>
+    </task>
+    <task id="LOCAL-00066" summary="생산자 소비자 문제 V6_1 - BlockingQueue">
+      <option name="closed" value="true" />
+      <created>1736759575153</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1736759575154</updated>
+    </task>
+    <task id="LOCAL-00067" summary="생산자 소비자 문제 V6_2 - BlockingQueue 즉시 반환">
+      <option name="closed" value="true" />
+      <created>1736759600026</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1736759600026</updated>
+    </task>
+    <task id="LOCAL-00068" summary="생산자 소비자 문제 V6_2 - BlockingQueue 즉시 반환">
+      <option name="closed" value="true" />
+      <created>1736759624352</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1736759624353</updated>
+    </task>
+    <task id="LOCAL-00069" summary="생산자 소비자 문제 V6_2 - BlockingQueue 한정대기">
+      <option name="closed" value="true" />
+      <created>1736759784800</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1736759784800</updated>
+    </task>
+    <task id="LOCAL-00070" summary="생산자 소비자 문제 V6_3 - BlockingQueue 한정대기">
+      <option name="closed" value="true" />
+      <created>1736759921220</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1736759921220</updated>
+    </task>
+    <task id="LOCAL-00071" summary="생산자 소비자 문제 V6_4 - BlockingQueue 즉시 예외">
+      <option name="closed" value="true" />
+      <created>1736760094377</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1736760094377</updated>
+    </task>
+    <task id="LOCAL-00072" summary="생산자 소비자 문제 V6_4 - BlockingQueue 즉시 예외">
+      <option name="closed" value="true" />
+      <created>1736760112613</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1736760112613</updated>
+    </task>
+    <task id="LOCAL-00073" summary="[섹션 11] 원자적 연산 - 시작">
+      <option name="closed" value="true" />
+      <created>1736761529109</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1736761529109</updated>
+    </task>
+    <task id="LOCAL-00074" summary="원자적 연산 - volatile, synchronized">
+      <option name="closed" value="true" />
+      <created>1736761838177</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1736761838177</updated>
+    </task>
+    <task id="LOCAL-00075" summary="원자적 연산 - AtomicInteger">
+      <option name="closed" value="true" />
+      <created>1736762042937</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1736762042937</updated>
+    </task>
+    <task id="LOCAL-00076" summary="원자적 연산 - 성능테스트">
+      <option name="closed" value="true" />
+      <created>1736769240492</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1736769240493</updated>
+    </task>
+    <task id="LOCAL-00077" summary="CAS 연산1">
+      <option name="closed" value="true" />
+      <created>1736769699716</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1736769699716</updated>
+    </task>
+    <task id="LOCAL-00078" summary="CAS 연산1">
+      <option name="closed" value="true" />
+      <created>1736769773193</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1736769773193</updated>
+    </task>
+    <task id="LOCAL-00079" summary="CAS 연산1">
+      <option name="closed" value="true" />
+      <created>1736770512253</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1736770512253</updated>
+    </task>
+    <task id="LOCAL-00080" summary="CAS 연산1">
+      <option name="closed" value="true" />
+      <created>1736770563618</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1736770563618</updated>
+    </task>
+    <task id="LOCAL-00081" summary="CAS 연산2">
+      <option name="closed" value="true" />
+      <created>1736770573418</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1736770573418</updated>
+    </task>
+    <task id="LOCAL-00082" summary="CAS 연산3: 다른 스레드가 값을 변경하는 경우">
+      <option name="closed" value="true" />
+      <created>1736771053491</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1736771053491</updated>
+    </task>
+    <task id="LOCAL-00083" summary="CAS로 스핀락 구현1">
+      <option name="closed" value="true" />
+      <created>1736772740598</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1736772740598</updated>
+    </task>
+    <task id="LOCAL-00084" summary="CAS로 스핀락 구현2 : CAS 사용">
+      <option name="closed" value="true" />
+      <created>1736773126755</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1736773126755</updated>
+    </task>
+    <task id="LOCAL-00085" summary="CAS로 스핀락 구현2 : CAS 사용">
+      <option name="closed" value="true" />
+      <created>1736773423045</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1736773423045</updated>
+    </task>
+    <task id="LOCAL-00086" summary="CAS로 스핀락 구현2 : CAS 사용">
+      <option name="closed" value="true" />
+      <created>1736773514392</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1736773514392</updated>
+    </task>
+    <task id="LOCAL-00087" summary="[섹션 12] 동시성 컬렉션 시작">
+      <option name="closed" value="true" />
+      <created>1736840500268</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1736840500270</updated>
+    </task>
+    <task id="LOCAL-00088" summary="동시성 컬렉션이 필요한 이유 2 - 동시성 문제">
+      <option name="closed" value="true" />
+      <created>1736841447653</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1736841447653</updated>
+    </task>
+    <task id="LOCAL-00089" summary="동시성 컬렉션이 필요한 이유 3 - 동기화">
+      <option name="closed" value="true" />
+      <created>1736841672866</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1736841672867</updated>
+    </task>
+    <task id="LOCAL-00090" summary="동시성 컬렉션이 필요한 이유 3 - 프록시 도입">
+      <option name="closed" value="true" />
+      <created>1736842049497</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1736842049498</updated>
+    </task>
+    <task id="LOCAL-00091" summary="자바 동시성 컬렉션 1- synchronizedL">
+      <option name="closed" value="true" />
+      <created>1737444321968</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1737444321969</updated>
+    </task>
+    <task id="LOCAL-00092" summary="자바 동시성 컬렉션 1- synchronizedL">
+      <option name="closed" value="true" />
+      <created>1737444327774</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1737444327774</updated>
+    </task>
+    <task id="LOCAL-00093" summary="자바 동시성 컬렉션 2 - 동시성 컬렉션">
+      <option name="closed" value="true" />
+      <created>1737446295636</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1737446295636</updated>
+    </task>
+    <task id="LOCAL-00094" summary="[섹션 13] Executor 프레임워크 소개">
+      <option name="closed" value="true" />
+      <created>1737447597139</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1737447597139</updated>
+    </task>
+    <task id="LOCAL-00095" summary="Runnable의 불편함">
+      <option name="closed" value="true" />
+      <created>1737450588026</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1737450588026</updated>
+    </task>
+    <task id="LOCAL-00096" summary="Future 소개 1 - Callable">
+      <option name="closed" value="true" />
+      <created>1737452382339</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1737452382339</updated>
+    </task>
+    <task id="LOCAL-00097" summary="Future 소개 1 - Callable">
+      <option name="closed" value="true" />
+      <created>1737452441392</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1737452441392</updated>
+    </task>
+    <task id="LOCAL-00098" summary="Future 소개 2">
+      <option name="closed" value="true" />
+      <created>1737553727442</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1737553727442</updated>
+    </task>
+    <task id="LOCAL-00099" summary="Future3 - 활용">
+      <option name="closed" value="true" />
+      <created>1737554505975</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1737554505975</updated>
+    </task>
+    <task id="LOCAL-00100" summary="Future5 - 정리">
+      <option name="closed" value="true" />
+      <created>1738829551414</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1738829551415</updated>
+    </task>
+    <task id="LOCAL-00101" summary="Future6 - 취소">
+      <option name="closed" value="true" />
+      <created>1738829701659</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1738829701659</updated>
+    </task>
+    <task id="LOCAL-00102" summary="Future7- 예외">
+      <option name="closed" value="true" />
+      <created>1738830956609</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1738830956609</updated>
+    </task>
+    <option name="localTasksCounter" value="103" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="원자적 연산 - 성능테스트" />
+    <MESSAGE value="CAS 연산1,2" />
+    <MESSAGE value="CAS 연산1" />
+    <MESSAGE value="CAS 연산2" />
+    <MESSAGE value="CAS 연산3: 다른 스레드가 값을 변경하는 경우" />
+    <MESSAGE value="CAS로 스핀락 구현1 - 문제 있는 코드" />
+    <MESSAGE value="CAS로 스핀락 구현2" />
+    <MESSAGE value="CAS로 스핀락 구현1 - 문제 있는 코드" />
+    <MESSAGE value="CAS로 스핀락 구현2 : CAS 사용" />
+    <MESSAGE value="[섹션 12] 동시성 컬렉션 시작" />
+    <MESSAGE value="동시성 컬렉션이 필요한 이유 2 - 동시성 문제" />
+    <MESSAGE value="동시성 컬렉션이 필요한 이유 3 - 동기화" />
+    <MESSAGE value="동시성 컬렉션이 필요한 이유 3 - 프록시 도입" />
+    <MESSAGE value="자바 동시성 컬렉션 1- synchronized" />
+    <MESSAGE value="자바 동시성 컬렉션 1- synchronizedL" />
+    <MESSAGE value="자바 동시성 컬렉션 2 - 동시성 컬렉션" />
+    <MESSAGE value="[섹션 13] Executor 프레임워크 소개" />
+    <MESSAGE value="Runnable의 불편함" />
+    <MESSAGE value="Future 소개 1 - Callable" />
+    <MESSAGE value="Future 소개 2" />
+    <MESSAGE value="Future3 - 활용" />
+    <MESSAGE value="Future6 - 정리" />
+    <MESSAGE value="Future5 - 정리" />
+    <MESSAGE value="Future6 - 취소" />
+    <MESSAGE value="Future7- 예외" />
+    <option name="LAST_COMMIT_MESSAGE" value="Future7- 예외" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/thread/executor/RunnableMain.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
