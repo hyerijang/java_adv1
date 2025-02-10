@@ -153,20 +153,7 @@
       <recent name="thread.cas" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FutureExceptionMain">
-    <configuration name="CallableMainV2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="thread.executor.CallableMainV2" />
-      <module name="java_adv1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="thread.executor.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.OldOrderServiceTestMain">
     <configuration name="FutureCancleMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="thread.executor.FutureCancleMain" />
       <module name="java_adv1" />
@@ -186,6 +173,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="thread.executor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OldOrderServiceTestMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.executor.test.OldOrderServiceTestMain" />
+      <module name="java_adv1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="thread.executor.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -221,11 +221,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OldOrderServiceTestMain" />
         <item itemvalue="Application.SumTaskMainV2" />
         <item itemvalue="Application.SumTaskMainV1" />
         <item itemvalue="Application.FutureExceptionMain" />
         <item itemvalue="Application.FutureCancleMain" />
-        <item itemvalue="Application.CallableMainV2" />
       </list>
     </recent_temporary>
   </component>
@@ -262,14 +262,7 @@
       <workItem from="1737445739653" duration="13653000" />
       <workItem from="1738823838398" duration="4845000" />
       <workItem from="1739146082967" duration="267000" />
-    </task>
-    <task id="LOCAL-00055" summary="ReentrantLock - 대기 중단">
-      <option name="closed" value="true" />
-      <created>1736498401745</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1736498401746</updated>
+      <workItem from="1739147504566" duration="186000" />
     </task>
     <task id="LOCAL-00056" summary="[섹션 9] 생산자 소비자 문제1 - 예제 코드">
       <option name="closed" value="true" />
@@ -655,7 +648,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739146168343</updated>
     </task>
-    <option name="localTasksCounter" value="104" />
+    <task id="LOCAL-00104" summary="ExecutorService - 작업 컬렉션 처리">
+      <option name="closed" value="true" />
+      <created>1739147532801</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1739147532802</updated>
+    </task>
+    <option name="localTasksCounter" value="105" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -673,7 +674,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="CAS 연산1,2" />
     <MESSAGE value="CAS 연산1" />
     <MESSAGE value="CAS 연산2" />
     <MESSAGE value="CAS 연산3: 다른 스레드가 값을 변경하는 경우" />
@@ -698,7 +698,8 @@
     <MESSAGE value="Future6 - 취소" />
     <MESSAGE value="Future7- 예외" />
     <MESSAGE value="chore" />
-    <option name="LAST_COMMIT_MESSAGE" value="chore" />
+    <MESSAGE value="ExecutorService - 작업 컬렉션 처리" />
+    <option name="LAST_COMMIT_MESSAGE" value="ExecutorService - 작업 컬렉션 처리" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
