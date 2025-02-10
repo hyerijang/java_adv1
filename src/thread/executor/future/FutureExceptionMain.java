@@ -1,4 +1,4 @@
-package thread.executor;
+package thread.executor.future;
 
 import java.util.concurrent.Callable;
 import java.util.concurrent.ExecutionException;
