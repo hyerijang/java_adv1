@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b280f41d-a89a-45a0-87c2-1ed77427f493" name="Changes" comment="Future7- 예외">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+    <list default="true" id="b280f41d-a89a-45a0-87c2-1ed77427f493" name="Changes" comment="chore">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +46,9 @@
     &quot;accountId&quot;: &quot;5409bcbe-c8b1-4ec7-b41b-e93b3c9fd4b4&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/.jdks/temurin-21.0.5/lib/src.zip!/java.base/java/lang/Runnable.java" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -131,7 +134,7 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.toDoOptions",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -215,10 +218,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SumTaskMainV2" />
+        <item itemvalue="Application.SumTaskMainV1" />
         <item itemvalue="Application.FutureExceptionMain" />
         <item itemvalue="Application.FutureCancleMain" />
-        <item itemvalue="Application.SumTaskMainV1" />
-        <item itemvalue="Application.SumTaskMainV2" />
         <item itemvalue="Application.CallableMainV2" />
       </list>
     </recent_temporary>
@@ -255,14 +258,7 @@
       <workItem from="1737443212216" duration="1962000" />
       <workItem from="1737445739653" duration="13653000" />
       <workItem from="1738823838398" duration="4845000" />
-    </task>
-    <task id="LOCAL-00054" summary="ReentrantLock - 활용&#10;&#10;finally 블록을 사용해서 unlock을 꼭 해줘야 함. 안하면 다른 스레드가 lock을 얻지 못하고 무한 대기 상태에 빠짐">
-      <option name="closed" value="true" />
-      <created>1736339980086</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1736339980087</updated>
+      <workItem from="1739146082967" duration="267000" />
     </task>
     <task id="LOCAL-00055" summary="ReentrantLock - 대기 중단">
       <option name="closed" value="true" />
@@ -648,7 +644,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738830956609</updated>
     </task>
-    <option name="localTasksCounter" value="103" />
+    <task id="LOCAL-00103" summary="chore">
+      <option name="closed" value="true" />
+      <created>1739146168342</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1739146168343</updated>
+    </task>
+    <option name="localTasksCounter" value="104" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -666,7 +670,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="원자적 연산 - 성능테스트" />
     <MESSAGE value="CAS 연산1,2" />
     <MESSAGE value="CAS 연산1" />
     <MESSAGE value="CAS 연산2" />
@@ -691,7 +694,8 @@
     <MESSAGE value="Future5 - 정리" />
     <MESSAGE value="Future6 - 취소" />
     <MESSAGE value="Future7- 예외" />
-    <option name="LAST_COMMIT_MESSAGE" value="Future7- 예외" />
+    <MESSAGE value="chore" />
+    <option name="LAST_COMMIT_MESSAGE" value="chore" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
